@@ -1,0 +1,13 @@
+*.csproj.user
+*.pdb
+*.csproj.CoreCompileInputs.cache
+*.suo
+bin/
+obj/
+.vs/
+*.ide-shm
+*.user
+App_Data/
+bin/
+.vs
+*.user
